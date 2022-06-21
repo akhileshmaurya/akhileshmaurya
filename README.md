@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/maurya_akhilesh"><img src="https://api.daily.dev/devcards/3ec3664a98b448aba7555948f6b11e43.png?r=odm" width="400" alt="AKHILESH KUMAR MAURYA's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Akhilesh Kumar Maurya</h1>
 <h3 align="center">I am enthusiastic software developer since my childhood. I work as a Tech Lead with MoveInSync/WorkInSync.</h3>
 
